@@ -9,7 +9,7 @@ This page summarizes project maturity and directs reports to the right repositor
 | [Towns & Kingdoms 3](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-3) | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues) · [New report](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) |
 | [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Alpha · in development | [README](https://github.com/Mikaaah/Resonant-Arcana#readme) | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues) · [New report](https://github.com/Mikaaah/Resonant-Arcana/issues/new/choose) |
 | [UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Published compatibility fix | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues) · [New report](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues/new/choose) |
-| [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [GitHub download](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/releases/tag/Release) | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues) · [New report](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) |
+| [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-streams-reflowing-compat) · [GitHub download](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/releases/tag/Release) | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues) · [New report](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) |
 | [LEVENLOOS Discord Bot](https://github.com/Mikaaah/Levenloos-Bot) | Source available | [README](https://github.com/Mikaaah/Levenloos-Bot#readme) | [Issues](https://github.com/Mikaaah/Levenloos-Bot/issues) · [New report](https://github.com/Mikaaah/Levenloos-Bot/issues/new/choose) |
 
 ## Current notes
@@ -17,7 +17,7 @@ This page summarizes project maturity and directs reports to the right repositor
 - **Towns & Kingdoms 3:** T&K3 is in development. Existing T&K2 downloads remain on the CurseForge project.
 - **Resonant Arcana:** Spell design, balance and compatibility are still being developed. See the project README for current builds and limitations.
 - **UltraTerraForged × Alex's Caves:** Version 1.0.0 is available on CurseForge. Generation changes apply to new chunks; supported dependency versions are listed in the README.
-- **UltraTerraForged Streams Currents:** A GitHub download is available. This adapter adds currents; it does not repair river terrain.
+- **UltraTerraForged Streams Currents:** Downloads are available on CurseForge and GitHub. This adapter adds currents; it does not repair river terrain.
 - **LEVENLOOS Discord Bot:** Discord bot source and deployment notes are available. This overview does not monitor the live bot or promise uptime.
 
 ## Reporting an issue
@@ -32,7 +32,7 @@ Search for an existing report first. Do not post tokens, passwords, personal doc
 
 [Browse all published CurseForge projects](https://www.curseforge.com/members/mikaaah/projects).
 
-Direct project links are used where a published listing is verified. Resonant Arcana and Streams Currents link to the creator's project directory until their own CurseForge listings are available. The Discord bot is a GitHub project; the CurseForge directory links to other work by the same creator.
+Direct project links are used where a published listing is verified. Resonant Arcana links to the creator's project directory until its own CurseForge listing is available. The Discord bot is a GitHub project; the CurseForge directory links to other work by the same creator.
 
 ## Keeping this page current
 
