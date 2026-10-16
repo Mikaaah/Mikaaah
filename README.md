@@ -46,7 +46,6 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 | [UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Published compatibility fix | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) |
 | [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
 | [LEVENLOOS Discord Bot](https://github.com/Mikaaah/Levenloos-Bot) | Source available | [Issues](https://github.com/Mikaaah/Levenloos-Bot/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
-| [NEN 3140 Aanwijzingen](https://github.com/Mikaaah/Aanwijzing-Programma) | Source and build workflow available | [Issues](https://github.com/Mikaaah/Aanwijzing-Programma/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
 
 ## 🌐 Explore
 
