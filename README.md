@@ -44,7 +44,7 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 | [Towns & Kingdoms 3](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-3) |
 | [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Alpha · in development | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
 | [UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Published compatibility fix | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) |
-| [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
+| [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-streams-reflowing-compat) |
 | [LEVENLOOS Discord Bot](https://github.com/Mikaaah/Levenloos-Bot) | Source available | [Issues](https://github.com/Mikaaah/Levenloos-Bot/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
 
 ## 🌐 Explore
