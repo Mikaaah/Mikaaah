@@ -35,6 +35,7 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 
 ## 🌐 Explore
 
+- 🔥 [My CurseForge projects](https://www.curseforge.com/members/mikaaah/projects)
 - 📚 [Towns & Kingdoms Wiki](https://mikaaah.github.io/TownsAndKingdoms/)
 - 🧩 [All my repositories](https://github.com/Mikaaah?tab=repositories)
 - 🐛 Have a bug or an idea? Open an issue in the relevant project repository.
