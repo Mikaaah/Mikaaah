@@ -25,6 +25,7 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 | 🏰 **[Towns & Kingdoms](https://github.com/Mikaaah/TownsAndKingdoms)** | Create-focused modpack development, custom progression, quests, and an interactive [player wiki](https://mikaaah.github.io/TownsAndKingdoms/). |
 | ✨ **[Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana)** | An Iron's Spells 'n Spellbooks add-on with themed wands and RPG-inspired magic. Currently in alpha development. |
 | 🦇 **[UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix)** | Restores cave-biome and chamber generation in UltraTerraForged worlds. |
+| ⚔️ **[T&K Loot and Identification](https://github.com/Mikaaah/TNK-Loot-Identification)** | Configurable Guild progression and unidentified weapons for Towns & Kingdoms. |
 | 🌊 **[UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents)** | Experimental height-aware river currents using Streams Reflowing. |
 
 ## 🔧 Things I work with
@@ -44,6 +45,7 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 | [Towns & Kingdoms 3](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-3) |
 | [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Alpha · in development | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
 | [UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Published compatibility fix | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) |
+| [T&K Loot and Identification](https://github.com/Mikaaah/TNK-Loot-Identification) | Alpha · in development | [README & download](https://github.com/Mikaaah/TNK-Loot-Identification#readme) |
 | [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-streams-reflowing-compat) |
 | [LEVENLOOS Discord Bot](https://github.com/Mikaaah/Levenloos-Bot) | Source available | [Issues](https://github.com/Mikaaah/Levenloos-Bot/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
 
