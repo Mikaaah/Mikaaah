@@ -29,7 +29,7 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 
 ## 🔧 Things I work with
 
-**Minecraft & modding:** NeoForge · Java · KubeJS · Create · world generation · custom progression
+**Minecraft & modding:** NeoForge · Java · KubeJS · Create · World Generation · Custom Progression · Questing
 
 **Tools & websites:** Python · JavaScript · HTML/CSS · GitHub Actions
 
