@@ -1,4 +1,4 @@
-#Requires -Version 7.0
+#Requires -Version 5.1
 <#
 .SYNOPSIS
 Synchronizes source-controlled mod documentation to the three native GitHub Wiki repositories.
@@ -8,9 +8,9 @@ GitHub Wiki routing, and pushes only those Markdown pages to the project's .wiki
 Other wiki pages are not deleted. No mod code, tags, registry IDs or releases are changed.
 Requires Git, GitHub CLI, permission to write the destination wikis, and initialized wikis.
 .EXAMPLE
-pwsh ./Publish-Mod-Wikis.ps1
+powershell -File .\Publish-Mod-Wikis.ps1
 .EXAMPLE
-pwsh ./Publish-Mod-Wikis.ps1 -Apply
+powershell -File .\Publish-Mod-Wikis.ps1 -Apply
 #>
 [CmdletBinding()]
 param([switch]$Apply)
