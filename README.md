@@ -23,8 +23,8 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 | Project | What it's about |
 | :-- | :-- |
 | 🏰 **[Towns & Kingdoms 3 — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms)** | Create-powered automation, RPG progression, exploration and quests, with an interactive [player wiki](https://mikaaah.github.io/TownsAndKingdoms/). |
-| ⚔️ **[Loot Unidentified](https://github.com/Mikaaah/TNK-Loot-Identification)** | A Towns & Kingdoms mod for Guild progression, loot, and unidentified gear. In active alpha development. |
-| ✨ **[Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana)** | An Iron's Spells 'n Spellbooks add-on for themed magic and RPG combat. In active alpha development. |
+| ⚔️ **[Loot Unidentified](https://github.com/Mikaaah/TNK-Loot-Identification)** | A Towns & Kingdoms mod for Guild progression, loot, and unidentified gear. In active alpha development; [CurseForge page pending approval](https://www.curseforge.com/minecraft/mc-mods/unidentified-loot-a-towns-kingdoms-mod). |
+| ✨ **[Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana)** | An Iron's Spells 'n Spellbooks add-on for themed magic and RPG combat. In active alpha development; [CurseForge page pending approval](https://www.curseforge.com/minecraft/mc-mods/resonant-arcana). |
 | 🌊 **[Flow Control — Streams Reflowing Addon](https://github.com/Mikaaah/Streams-Flow-Control)** | Shape currents or create calm water areas around docks. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon). |
 | 🦇 **[UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix)** | Restores cave-biome and chamber generation in UltraTerraForged worlds. |
 | 🌊 **[UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents)** | Experimental height-aware river currents using Streams Reflowing. |
@@ -43,7 +43,7 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 
 | Project | Status | Links |
 | :-- | :-- | :-- |
-| [Towns & Kingdoms 3 — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-2-a-new-world) · [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) |
+| [Towns & Kingdoms 3 — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-3) · [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) |
 | [Loot Unidentified](https://github.com/Mikaaah/TNK-Loot-Identification) | Alpha · in development | [README & build info](https://github.com/Mikaaah/TNK-Loot-Identification#readme) · [Issues](https://github.com/Mikaaah/TNK-Loot-Identification/issues/new/choose) |
 | [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Alpha · in development | [README](https://github.com/Mikaaah/Resonant-Arcana#readme) · [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues/new/choose) |
 | [Flow Control — Streams Reflowing Addon](https://github.com/Mikaaah/Streams-Flow-Control) | Published · ongoing development | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon) · [Issues](https://github.com/Mikaaah/Streams-Flow-Control/issues/new/choose) |
