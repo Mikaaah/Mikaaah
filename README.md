@@ -22,10 +22,11 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 
 | Project | What it's about |
 | :-- | :-- |
-| 🏰 **[Towns & Kingdoms](https://github.com/Mikaaah/TownsAndKingdoms)** | Create-focused modpack development, custom progression, quests, and an interactive [player wiki](https://mikaaah.github.io/TownsAndKingdoms/). |
-| ✨ **[Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana)** | An Iron's Spells 'n Spellbooks add-on with themed wands and RPG-inspired magic. Currently in alpha development. |
+| 🏰 **[Towns & Kingdoms 3 — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms)** | Create-powered automation, RPG progression, exploration and quests, with an interactive [player wiki](https://mikaaah.github.io/TownsAndKingdoms/). |
+| ⚔️ **[Loot Unidentified](https://github.com/Mikaaah/TNK-Loot-Identification)** | A Towns & Kingdoms mod for Guild progression, loot, and unidentified gear. In active alpha development. |
+| ✨ **[Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana)** | An Iron's Spells 'n Spellbooks add-on for themed magic and RPG combat. In active alpha development. |
+| 🌊 **[Flow Control — Streams Reflowing Addon](https://github.com/Mikaaah/Streams-Flow-Control)** | Shape currents or create calm water areas around docks. Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon). |
 | 🦇 **[UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix)** | Restores cave-biome and chamber generation in UltraTerraForged worlds. |
-| ⚔️ **[T&K Loot and Identification](https://github.com/Mikaaah/TNK-Loot-Identification)** | Configurable Guild progression and unidentified weapons for Towns & Kingdoms. |
 | 🌊 **[UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents)** | Experimental height-aware river currents using Streams Reflowing. |
 
 ## 🔧 Things I work with
@@ -42,12 +43,12 @@ I also develop independent NeoForge add-ons, compatibility fixes, and the occasi
 
 | Project | Status | Links |
 | :-- | :-- | :-- |
-| [Towns & Kingdoms 3](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-3) |
-| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Alpha · in development | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
-| [UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Published compatibility fix | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) |
-| [T&K Loot and Identification](https://github.com/Mikaaah/TNK-Loot-Identification) | Alpha · in development | [README & download](https://github.com/Mikaaah/TNK-Loot-Identification#readme) |
-| [UltraTerraForged Streams Currents](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-streams-reflowing-compat) |
-| [LEVENLOOS Discord Bot](https://github.com/Mikaaah/Levenloos-Bot) | Source available | [Issues](https://github.com/Mikaaah/Levenloos-Bot/issues/new/choose) · [Creator's CurseForge](https://www.curseforge.com/members/mikaaah/projects) |
+| [Towns & Kingdoms 3 — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | In development | [CurseForge](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms-2-a-new-world) · [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues/new/choose) |
+| [Loot Unidentified](https://github.com/Mikaaah/TNK-Loot-Identification) | Alpha · in development | [README & build info](https://github.com/Mikaaah/TNK-Loot-Identification#readme) · [Issues](https://github.com/Mikaaah/TNK-Loot-Identification/issues/new/choose) |
+| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Alpha · in development | [README](https://github.com/Mikaaah/Resonant-Arcana#readme) · [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues/new/choose) |
+| [Flow Control — Streams Reflowing Addon](https://github.com/Mikaaah/Streams-Flow-Control) | Published · ongoing development | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon) · [Issues](https://github.com/Mikaaah/Streams-Flow-Control/issues/new/choose) |
+| [UltraTerraForged × Alex's Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Published compatibility fix | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) · [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues/new/choose) |
+| [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Experimental alpha · published | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-streams-reflowing-compat) · [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues/new/choose) |
 
 ## 🌐 Explore
 
