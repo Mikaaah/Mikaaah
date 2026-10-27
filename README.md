@@ -12,11 +12,11 @@ Creator of **Towns & Kingdoms — Beyond the Forge**. I build Minecraft mods and
 | --- | --- |
 | [Towns & Kingdoms — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | Create automation, RPG progression, magic, exploration and settlement development. TNK3 is in development; TNK2 history is preserved. |
 | [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | An Iron’s Spells ’n Spellbooks addon with themed magic and optional cave and boss arts. |
-| [Unidentified Loot](https://github.com/Mikaaah/TNK-Loot-Identification) | Tiered unidentified equipment, Guild identification and Apotheosis affixes. |
-| [Flow Control](https://github.com/Mikaaah/Streams-Flow-Control) | Water-current tools for Streams Reflowing across NeoForge, Forge and Fabric builds. |
-| [Create: Alchemical Lasers](https://github.com/Mikaaah/Alchemical-Laser) | Kinetic bulk processing, lenses, consumable catalysts, KubeJS and sequenced assembly. |
+| [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | Tiered unidentified equipment, Guild identification and Apotheosis affixes. |
+| [Flow Control](https://github.com/Mikaaah/Flow-Control) | Water-current tools for Streams Reflowing across NeoForge, Forge and Fabric builds. |
+| [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | Kinetic bulk processing, lenses, consumable catalysts, KubeJS and sequenced assembly. |
 | [Duskdelvers — Expeditions](https://github.com/Mikaaah/Duskdelvers) | Timed cooperative expeditions through natural Chaos Caverns and biome-based danger. |
-| [Towns & Kingdoms — Wildshape](https://github.com/Mikaaah/ultraterraforged-personal) | The TNK terrain-generation fork, with legacy TNKTerraForged build names and upstream credits. |
+| [Towns & Kingdoms — Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | The TNK terrain-generation fork, with legacy TNKTerraForged build names and upstream credits. |
 | [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Standalone biome and chamber compatibility for UltraTerraForged. |
 | [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Standalone height-aware native river-current compatibility. |
 

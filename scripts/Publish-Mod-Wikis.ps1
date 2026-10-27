@@ -1,7 +1,7 @@
 #Requires -Version 5.1
 <#
 .SYNOPSIS
-Synchronizes source-controlled mod documentation to the three native GitHub Wiki repositories.
+Synchronizes source-controlled mod documentation to the native GitHub Wiki repositories.
 .DESCRIPTION
 Reads each project's wiki/*.md files from GitHub, adapts relative Markdown links for
 GitHub Wiki routing, and pushes only those Markdown pages to the project's .wiki.git remote.
@@ -19,6 +19,12 @@ $ErrorActionPreference = 'Stop'
 $owner = 'Mikaaah'
 $mods = @(
   'Resonant-Arcana',
+  'Unidentified-Loot',
+  'Flow-Control',
+  'Create-Alchemical-Lasers',
+  'Duskdelvers',
+  'Towns-and-Kingdoms-Wildshape',
+  'Towns-and-Kingdoms-Workshop',
   'Terraforged-Alexs-Caves-Fix',
   'UltraTerraForged-Streams-Currents'
 )
@@ -34,7 +40,7 @@ if ($LASTEXITCODE -ne 0) {
 }
 if (-not $Apply) {
   Write-Host "Dry run: documentation source exists under wiki/ in each mod repository."
-  Write-Host "To publish the three GitHub Wikis, rerun with -Apply."
+  Write-Host "To publish the GitHub Wikis, rerun with -Apply."
   Write-Host "A GitHub Wiki must have its first Home page created in the GitHub UI before cloning."
   return
 }
@@ -93,4 +99,4 @@ foreach ($mod in $mods) {
   }
 }
 
-Write-Host "Wiki sync complete. Review the three Wiki tabs for rendered Markdown and navigation."
+Write-Host "Wiki sync complete. Review the Wiki tabs for rendered Markdown and navigation."

@@ -6,11 +6,11 @@ Documentation reviewed 27 October 2026. Source versions describe the inspected b
 | --- | --- | --- |
 | [Towns & Kingdoms — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | [README](https://github.com/Mikaaah/TownsAndKingdoms#readme) | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues) |
 | [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | [README](https://github.com/Mikaaah/Resonant-Arcana#readme) | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues) |
-| [Unidentified Loot](https://github.com/Mikaaah/TNK-Loot-Identification) | [README](https://github.com/Mikaaah/TNK-Loot-Identification#readme) | [Issues](https://github.com/Mikaaah/TNK-Loot-Identification/issues) |
-| [Flow Control](https://github.com/Mikaaah/Streams-Flow-Control) | [README](https://github.com/Mikaaah/Streams-Flow-Control#readme) | [Issues](https://github.com/Mikaaah/Streams-Flow-Control/issues) |
-| [Create: Alchemical Lasers](https://github.com/Mikaaah/Alchemical-Laser) | [README](https://github.com/Mikaaah/Alchemical-Laser#readme) | [Issues](https://github.com/Mikaaah/Alchemical-Laser/issues) |
+| [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | [README](https://github.com/Mikaaah/Unidentified-Loot#readme) | [Issues](https://github.com/Mikaaah/Unidentified-Loot/issues) |
+| [Flow Control](https://github.com/Mikaaah/Flow-Control) | [README](https://github.com/Mikaaah/Flow-Control#readme) | [Issues](https://github.com/Mikaaah/Flow-Control/issues) |
+| [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | [README](https://github.com/Mikaaah/Create-Alchemical-Lasers#readme) | [Issues](https://github.com/Mikaaah/Create-Alchemical-Lasers/issues) |
 | [Duskdelvers — Expeditions](https://github.com/Mikaaah/Duskdelvers) | [README](https://github.com/Mikaaah/Duskdelvers#readme) | [Issues](https://github.com/Mikaaah/Duskdelvers/issues) |
-| [Towns & Kingdoms — Wildshape](https://github.com/Mikaaah/ultraterraforged-personal) | [README](https://github.com/Mikaaah/ultraterraforged-personal#readme) | [Issues](https://github.com/Mikaaah/ultraterraforged-personal/issues) |
+| [Towns & Kingdoms — Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | [README](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape#readme) | [Issues](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape/issues) |
 | [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | [README](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix#readme) | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues) |
 | [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | [README](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents#readme) | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues) |
 
