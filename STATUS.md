@@ -14,6 +14,8 @@ Documentation reviewed 27 October 2026. Source versions describe the inspected b
 | [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | [README](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix#readme) | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues) |
 | [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | [README](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents#readme) | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues) |
 
+| [Towns & Kingdoms — Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | [Wiki](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/wiki) · [README](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop#readme) | [Issues](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/issues) |
+
 ## Current notes
 
 - **Towns & Kingdoms:** TNK3 development and the TNK2 archive share the main repository and CurseForge listing.

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/pmAZQF7.png" alt="Mikaaah — Mods & Modpacks" width="100%"></p>
+<p align="center"><img src="assets/branding/mikaaah-banner-centered.png" alt="Mikaaah — Mods & Modpacks" width="100%"></p>
 
 # Mikaaah
 
@@ -24,6 +24,7 @@ Creator of **Towns & Kingdoms — Beyond the Forge**. I build Minecraft mods and
 | [Flow Control](https://github.com/Mikaaah/Flow-Control) | Water-current tools for Streams Reflowing across NeoForge, Forge and Fabric builds. |
 | [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | Kinetic bulk processing, lenses, consumable catalysts, KubeJS and sequenced assembly. |
 | [Duskdelvers — Expeditions](https://github.com/Mikaaah/Duskdelvers) | Timed cooperative expeditions through natural Chaos Caverns and biome-based danger. |
+| [Towns & Kingdoms — Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | Construction tools, quest projections, cages and travel utilities. [Wiki](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/wiki). |
 | [Towns & Kingdoms — Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | The TNK terrain-generation fork, with legacy TNKTerraForged build names and upstream credits. |
 | [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Standalone biome and chamber compatibility for UltraTerraForged. |
 | [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Standalone height-aware native river-current compatibility. |
