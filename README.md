@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/branding/mikaaah-banner-centered.png" alt="Mikaaah — Mods & Modpacks" width="100%"></p>
+<p align="center"><img src="https://i.imgur.com/9Gtns7K.png" alt="Mikaaah — Mods & Modpacks" width="100%"></p>
 
 # Mikaaah
 
