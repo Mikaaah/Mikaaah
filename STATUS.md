@@ -1,31 +1,28 @@
-# Project status & support
+# Project directory & support
 
-Documentation reviewed 27 October 2026. Source versions describe the inspected branches; they do not imply a CurseForge release or completed full-pack testing.
+Find a guide, download page or issue tracker for every Minecraft project. Version support belongs to each project’s own guide.
 
-| Project | Current reference | Support |
-| --- | --- | --- |
-| [Towns & Kingdoms — Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | [README](https://github.com/Mikaaah/TownsAndKingdoms#readme) | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues) |
-| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | [README](https://github.com/Mikaaah/Resonant-Arcana#readme) | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues) |
-| [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | [README](https://github.com/Mikaaah/Unidentified-Loot#readme) | [Issues](https://github.com/Mikaaah/Unidentified-Loot/issues) |
-| [Flow Control](https://github.com/Mikaaah/Flow-Control) | [README](https://github.com/Mikaaah/Flow-Control#readme) | [Issues](https://github.com/Mikaaah/Flow-Control/issues) |
-| [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | [README](https://github.com/Mikaaah/Create-Alchemical-Lasers#readme) | [Issues](https://github.com/Mikaaah/Create-Alchemical-Lasers/issues) |
-| [Duskdelvers — Expeditions](https://github.com/Mikaaah/Duskdelvers) | [README](https://github.com/Mikaaah/Duskdelvers#readme) | [Issues](https://github.com/Mikaaah/Duskdelvers/issues) |
-| [Towns & Kingdoms — Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | [README](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape#readme) | [Issues](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape/issues) |
-| [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | [README](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix#readme) | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues) |
-| [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | [README](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents#readme) | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues) |
-| [Towns & Kingdoms — Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | [Wiki](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/wiki) · [README](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop#readme) | [Issues](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/issues) |
+| Project | Guide | Downloads | Help |
+| --- | --- | --- | --- |
+| [Towns & Kingdoms 3 · Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | [Read](https://mikaaah.github.io/TownsAndKingdoms/) | [Open](https://www.curseforge.com/minecraft/modpacks/towns-kingdoms) | [Issues](https://github.com/Mikaaah/TownsAndKingdoms/issues) |
+| [Towns & Kingdoms Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | [Read](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/wiki) | [Open](https://www.curseforge.com/members/mikaaah/projects) | [Issues](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop/issues) |
+| [Towns & Kingdoms Progression](https://github.com/Mikaaah/TNK-Progression) | [Read](https://github.com/Mikaaah/TNK-Progression/blob/main/docs/CHARACTER-GUIDE.md) | [Open](https://www.curseforge.com/members/mikaaah/projects) | [Issues](https://github.com/Mikaaah/TNK-Progression/issues) |
+| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | [Read](https://github.com/Mikaaah/Resonant-Arcana/wiki) | [Open](https://www.curseforge.com/minecraft/mc-mods/resonant-arcana) | [Issues](https://github.com/Mikaaah/Resonant-Arcana/issues) |
+| [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | [Read](https://github.com/Mikaaah/Unidentified-Loot/wiki) | [Open](https://www.curseforge.com/minecraft/mc-mods/unidentified-loot-a-towns-kingdoms-mod) | [Issues](https://github.com/Mikaaah/Unidentified-Loot/issues) |
+| [Combat Punchy](https://github.com/Mikaaah/Combat-Punchy) | [Read](https://github.com/Mikaaah/Combat-Punchy/wiki) | [Open](https://github.com/Mikaaah/Combat-Punchy/releases) | [Issues](https://github.com/Mikaaah/Combat-Punchy/issues) |
+| [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | [Read](https://github.com/Mikaaah/Create-Alchemical-Lasers/wiki) | [Open](https://www.curseforge.com/members/mikaaah/projects) | [Issues](https://github.com/Mikaaah/Create-Alchemical-Lasers/issues) |
+| [Flow Control](https://github.com/Mikaaah/Flow-Control) | [Read](https://github.com/Mikaaah/Flow-Control/wiki) | [Open](https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon) | [Issues](https://github.com/Mikaaah/Flow-Control/issues) |
+| [Duskdelvers · Expeditions](https://github.com/Mikaaah/Duskdelvers) | [Read](https://github.com/Mikaaah/Duskdelvers/wiki) | [Open](https://github.com/Mikaaah/Duskdelvers/actions/workflows/build.yml) | [Issues](https://github.com/Mikaaah/Duskdelvers/issues) |
+| [Towns & Kingdoms Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | [Read](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape/wiki) | [Open](https://www.curseforge.com/members/mikaaah/projects) | [Issues](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape/issues) |
+| [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | [Read](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/wiki) | [Open](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-alexs-caves-fix) | [Issues](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix/issues) |
+| [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | [Read](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/wiki) | [Open](https://www.curseforge.com/minecraft/mc-mods/ultraterraforged-streams-reflowing-compat) | [Issues](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents/issues) |
 
-## Current notes
+Use the issue tracker for the affected project. Include your Minecraft, loader and mod versions, what you expected, what happened, and the steps needed to reproduce it. The Towns & Kingdoms listing includes several pack generations; choose downloads by their actual file version.
 
-- **Towns & Kingdoms:** TNK3 development and the TNK2 archive share the main repository and CurseForge listing.
-- **Resonant Arcana:** inspected README identifies source version 0.3.1. Consult its changelog for release history.
-- **Flow Control:** 0.1.5 documentation lists eight Minecraft/loader builds with separate Java requirements.
-- **Create: Alchemical Lasers:** source version 0.4.0 includes consumables, KubeJS and Create sequenced assembly.
-- **Duskdelvers:** source version 0.4.0 uses natural caverns and cache loot; the older artificial room system was removed.
-- **Wildshape:** current artifacts and internal metadata retain TNKTerraForged / `ultraterraforged` names. NeoForge integrations replace the corresponding standalone compatibility JARs.
+## Pull up a chair
 
-## Reporting an issue
+Questions, builds, feedback, server news and the occasional wildly overambitious factory: join the **Towns & Kingdoms Modding Hub**.
 
-Use the affected repository’s issue tracker. Include the Minecraft, loader and mod versions, reproduction steps and relevant logs. Search existing issues first and remove secrets or personal data from attachments.
+[![Join the Towns & Kingdoms Discord](https://i.imgur.com/Ojgcccm.png)](https://discord.gg/CRYk3uDPVt)
 
-[CurseForge projects](https://www.curseforge.com/members/mikaaah/projects) · [Towns & Kingdoms documentation](https://mikaaah.github.io/TownsAndKingdoms/)
+**[Join Discord](https://discord.gg/CRYk3uDPVt)** · [Explore all projects](https://mikaaah.github.io/TownsAndKingdoms/projects/) · [CurseForge projects](https://www.curseforge.com/members/mikaaah/projects)
