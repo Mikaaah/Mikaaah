@@ -1,0 +1,889 @@
+{
+  "schema": 1,
+  "audited_on": "2026-11-09",
+  "policy": {
+    "identity": "One deliberate release version per mod edition; platform details are filename fields.",
+    "version_bumps": "Only for a deliberate release. Never bump for every edit, rebuild or documentation update.",
+    "legacy": "Historical labels are immutable aliases, matched by SHA-256; never compare labels alone.",
+    "publication": "No automatic upload or stable promotion. Identity verification is not gameplay certification."
+  },
+  "projects": [
+    {
+      "id": "flow-control",
+      "name": "Flow Control",
+      "status": "active",
+      "mod_ids": [
+        "streamcontrol"
+      ],
+      "artifact_id": "flow-control",
+      "repository": "https://github.com/Mikaaah/Flow-Control",
+      "development_ref": "feature/verified-water-engineering",
+      "development_version": "0.2.2",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        },
+        {
+          "id": "neoforge-1.21.11",
+          "loader": "neoforge",
+          "minecraft": "1.21.11",
+          "java": 21
+        },
+        {
+          "id": "neoforge-26.1.2",
+          "loader": "neoforge",
+          "minecraft": "26.1.2",
+          "java": 25
+        },
+        {
+          "id": "neoforge-26.3",
+          "loader": "neoforge",
+          "minecraft": "26.3",
+          "java": 25
+        },
+        {
+          "id": "fabric-1.20.1",
+          "loader": "fabric",
+          "minecraft": "1.20.1",
+          "java": 17
+        },
+        {
+          "id": "fabric-1.21.1",
+          "loader": "fabric",
+          "minecraft": "1.21.1",
+          "java": 21
+        },
+        {
+          "id": "fabric-26.1.2",
+          "loader": "fabric",
+          "minecraft": "26.1.2",
+          "java": 25
+        },
+        {
+          "id": "forge-1.20.1",
+          "loader": "forge",
+          "minecraft": "1.20.1",
+          "java": 17
+        }
+      ],
+      "notes": [],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "forge-1.20.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "837d757a083d5553258acc59ce79e934a3a4ceba8fa53af5aba24966c389b04b",
+          "payload_sha256": "c1b581c24c2a4734d009b6dd1c250785654ce9bd4e1bb51d9eeb9447cd327994",
+          "filename": "flow-control-0.2.0-forge-1.20.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-forge-1.20.1.jar",
+          "file_id": 9424439,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424439"
+        },
+        {
+          "role": "published",
+          "target": "neoforge-26.3",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "5093a94ee2a62a3a4445dfafb678d7886ba330b6d36a6565d4c94b55faecea4f",
+          "payload_sha256": "dcb3c6892af3117fd4ef50b7d1733270e47197b70207c5b87873b5ca6b864d9c",
+          "filename": "flow-control-0.2.0-neoforge-26.3.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-neoforge-26.3.jar",
+          "file_id": 9424435,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424435"
+        },
+        {
+          "role": "published",
+          "target": "neoforge-26.1.2",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "5f55b2acb9e44fe8a38eb1b84d1e7b83f3140be554a955bf097206806d42dbbc",
+          "payload_sha256": "60e84e600537c17645030062257e1feb252920af351cc6d0c1da68a6e8148c20",
+          "filename": "flow-control-0.2.0-neoforge-26.1.2.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-neoforge-26.1.2.jar",
+          "file_id": 9424429,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424429"
+        },
+        {
+          "role": "published",
+          "target": "neoforge-1.21.11",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "805f634f69a794ab5bf2353c00315679317d3355c9fa88fcfd1eacf2857816b7",
+          "payload_sha256": "2e0781bca2fca9729bd54787eca638b4e888dc6b45528c7bf5ede2e3f74e3b2f",
+          "filename": "flow-control-0.2.0-neoforge-1.21.11.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-neoforge-1.21.11.jar",
+          "file_id": 9424425,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424425"
+        },
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "d62029a515001021fc34ff861e3a415567cdc605ffa83400e0c3699239e55780",
+          "payload_sha256": "68acd3cb73e9c6df23e5482a169a54cf64ffb53e9b02700c4a5dd28051b09586",
+          "filename": "flow-control-0.2.0-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-neoforge-1.21.1.jar",
+          "file_id": 9424424,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424424"
+        },
+        {
+          "role": "published",
+          "target": "fabric-1.20.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "86db1d0499f3bbd3f114d00387d631b6ceae244df37e43912bd055026b95c4e5",
+          "payload_sha256": "f7c5a123d7c070298320b02fe0efefec74a529c3fbce1d2e405794aa7adb4d21",
+          "filename": "flow-control-0.2.0-fabric-1.20.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-fabric-1.20.1.jar",
+          "file_id": 9424421,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424421"
+        },
+        {
+          "role": "published",
+          "target": "fabric-1.21.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "035df54b4df892d54bfcbf777034464367b15e7bee2219054eb8b1332ef74b6b",
+          "payload_sha256": "587c41b2af97a7efa22d9f8b7b92f4154d7bd534e978dda75e41ef382ad1d81b",
+          "filename": "flow-control-0.2.0-fabric-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-fabric-1.21.1.jar",
+          "file_id": 9424414,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424414"
+        },
+        {
+          "role": "published",
+          "target": "fabric-26.1.2",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "1beae255c0d4fe0967020a84be26fd056a6f0104ff11a946fc80aa82bd186b81",
+          "payload_sha256": "eb9302c3034e88d239f4b379ac32c75e6b4fef43a8b4dff8122f7467ebacdfc9",
+          "filename": "flow-control-0.2.0-fabric-26.1.2.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.2.0",
+          "display_name": "flow-control-0.2.0-fabric-26.1.2.jar",
+          "file_id": 9424386,
+          "project_id": 1750740,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/flow-control-streams-reflowing-addon/files/9424386"
+        },
+        {
+          "role": "development",
+          "target": "fabric-1.20.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "86db1d0499f3bbd3f114d00387d631b6ceae244df37e43912bd055026b95c4e5",
+          "payload_sha256": "f7c5a123d7c070298320b02fe0efefec74a529c3fbce1d2e405794aa7adb4d21",
+          "filename": "flow-control-0.2.2-fabric-1.20.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "fabric-1.21.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "035df54b4df892d54bfcbf777034464367b15e7bee2219054eb8b1332ef74b6b",
+          "payload_sha256": "587c41b2af97a7efa22d9f8b7b92f4154d7bd534e978dda75e41ef382ad1d81b",
+          "filename": "flow-control-0.2.2-fabric-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "fabric-26.1.2",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "1beae255c0d4fe0967020a84be26fd056a6f0104ff11a946fc80aa82bd186b81",
+          "payload_sha256": "eb9302c3034e88d239f4b379ac32c75e6b4fef43a8b4dff8122f7467ebacdfc9",
+          "filename": "flow-control-0.2.2-fabric-26.1.2.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "forge-1.20.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "837d757a083d5553258acc59ce79e934a3a4ceba8fa53af5aba24966c389b04b",
+          "payload_sha256": "c1b581c24c2a4734d009b6dd1c250785654ce9bd4e1bb51d9eeb9447cd327994",
+          "filename": "flow-control-0.2.2-forge-1.20.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "d62029a515001021fc34ff861e3a415567cdc605ffa83400e0c3699239e55780",
+          "payload_sha256": "68acd3cb73e9c6df23e5482a169a54cf64ffb53e9b02700c4a5dd28051b09586",
+          "filename": "flow-control-0.2.2-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.11",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "805f634f69a794ab5bf2353c00315679317d3355c9fa88fcfd1eacf2857816b7",
+          "payload_sha256": "2e0781bca2fca9729bd54787eca638b4e888dc6b45528c7bf5ede2e3f74e3b2f",
+          "filename": "flow-control-0.2.2-neoforge-1.21.11.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-26.1.2",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "5f55b2acb9e44fe8a38eb1b84d1e7b83f3140be554a955bf097206806d42dbbc",
+          "payload_sha256": "60e84e600537c17645030062257e1feb252920af351cc6d0c1da68a6e8148c20",
+          "filename": "flow-control-0.2.2-neoforge-26.1.2.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-26.3",
+          "edition": "standard",
+          "mod_id": "streamcontrol",
+          "internal_version": "0.2.2",
+          "sha256": "5093a94ee2a62a3a4445dfafb678d7886ba330b6d36a6565d4c94b55faecea4f",
+          "payload_sha256": "dcb3c6892af3117fd4ef50b7d1733270e47197b70207c5b87873b5ca6b864d9c",
+          "filename": "flow-control-0.2.2-neoforge-26.3.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1750740,
+        "slug": "flow-control-streams-reflowing-addon"
+      }
+    },
+    {
+      "id": "combat-punchy",
+      "name": "Combat Punchy",
+      "status": "active",
+      "mod_ids": [
+        "combatpunchy"
+      ],
+      "artifact_id": "combat-punchy",
+      "repository": "https://github.com/Mikaaah/Combat-Punchy",
+      "development_ref": "main",
+      "development_version": "1.2",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        },
+        {
+          "id": "forge-1.20.1",
+          "loader": "forge",
+          "minecraft": "1.20.1",
+          "java": 17
+        }
+      ],
+      "notes": [
+        "The existing 1.2 is a historical two-component version. New releases use three components."
+      ],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "combatpunchy",
+          "internal_version": "1.2",
+          "sha256": "bf61b925fda0266787d1d8344b0a887e23a59d3e1df81404d1269220eb0e20ed",
+          "payload_sha256": "cc150cf2888941c3cac3554f70037783010137f7754975c98d0e1e4e56547952",
+          "filename": "combat-punchy-1.2-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "1.2",
+          "display_name": "combat-punchy-1.2-neoforge-1.21.1.jar",
+          "file_id": 9474844,
+          "project_id": 1779010,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/combat-punchy-epic-fight-x-punchy-x-punchy-moves/files/9474844"
+        },
+        {
+          "role": "published",
+          "target": "forge-1.20.1",
+          "edition": "standard",
+          "mod_id": "combatpunchy",
+          "internal_version": "1.2",
+          "sha256": "9569b5a6d8f49a49065b69de077301c7a76db1a41e89d09fa1f193da086c37a6",
+          "payload_sha256": "4ddc2d97ed7139327ad8df81a6e381eb36e3daefa49651cd356cfc660b239572",
+          "filename": "combat-punchy-1.2-forge-1.20.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "1.2",
+          "display_name": "combat-punchy-1.2-forge-1.20.1.jar",
+          "file_id": 9474838,
+          "project_id": 1779010,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/combat-punchy-epic-fight-x-punchy-x-punchy-moves/files/9474838"
+        },
+        {
+          "role": "development",
+          "target": "forge-1.20.1",
+          "edition": "standard",
+          "mod_id": "combatpunchy",
+          "internal_version": "1.2",
+          "sha256": "9569b5a6d8f49a49065b69de077301c7a76db1a41e89d09fa1f193da086c37a6",
+          "payload_sha256": "4ddc2d97ed7139327ad8df81a6e381eb36e3daefa49651cd356cfc660b239572",
+          "filename": "combat-punchy-1.2-forge-1.20.1.jar",
+          "evidence": "Inspected latest delivered 1.2 JAR bytes independently of CurseForge"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "combatpunchy",
+          "internal_version": "1.2",
+          "sha256": "bf61b925fda0266787d1d8344b0a887e23a59d3e1df81404d1269220eb0e20ed",
+          "payload_sha256": "cc150cf2888941c3cac3554f70037783010137f7754975c98d0e1e4e56547952",
+          "filename": "combat-punchy-1.2-neoforge-1.21.1.jar",
+          "evidence": "Inspected latest delivered 1.2 JAR bytes independently of CurseForge"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1779010,
+        "slug": "combat-punchy-epic-fight-x-punchy-x-punchy-moves"
+      }
+    },
+    {
+      "id": "alchemical-lasers",
+      "name": "Create Alchemical Lasers",
+      "status": "active",
+      "mod_ids": [
+        "alchemicallaser"
+      ],
+      "artifact_id": "alchemical-lasers",
+      "repository": "https://github.com/Mikaaah/Create-Alchemical-Lasers",
+      "development_ref": "release/1.0.0",
+      "development_version": "1.0.0-rc.1",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Published stable title 1.0 contains an internal release candidate; preserve that historical mapping."
+      ],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "alchemicallaser",
+          "internal_version": "1.0.0-rc.1",
+          "sha256": "ecd0421d79c498d525de61c809effdba7f65969a2bc12659c2eb9dda8a7dbb57",
+          "payload_sha256": "b12e945c879cb6b7fab1500e70ac227fc9bf6962ed47854ed69aa09c84c134c1",
+          "filename": "alchemical-lasers-1.0-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "1.0",
+          "display_name": "alchemical-lasers-1.0-neoforge-1.21.1.jar",
+          "file_id": 9474768,
+          "project_id": 1787221,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/create-alchemical-lasers/files/9474768"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "alchemicallaser",
+          "internal_version": "1.0.0-rc.1",
+          "sha256": "ecd0421d79c498d525de61c809effdba7f65969a2bc12659c2eb9dda8a7dbb57",
+          "payload_sha256": "b12e945c879cb6b7fab1500e70ac227fc9bf6962ed47854ed69aa09c84c134c1",
+          "filename": "alchemical-lasers-1.0-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1787221,
+        "slug": "create-alchemical-lasers"
+      }
+    },
+    {
+      "id": "resonant-arcana",
+      "name": "Resonant Arcana",
+      "status": "active",
+      "mod_ids": [
+        "resonant_arcana"
+      ],
+      "artifact_id": "resonant-arcana",
+      "repository": "https://github.com/Mikaaah/Resonant-Arcana",
+      "development_ref": null,
+      "development_version": "0.8.1",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Latest hotfix source is the delivered source archive. GitHub main 0.3.1 is older; do not substitute it.",
+        "0.8.1 needs client startup verification; identity checks are not gameplay tests."
+      ],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "resonant_arcana",
+          "internal_version": "0.8.0",
+          "sha256": "d06f83c244e132af6e30ff5ef7ff3643051a88820251d4696513c1e8b2249322",
+          "payload_sha256": "8b293f11f36aa03b71a15f319e33d8b37130decbfab4497952aff086e9ce2c82",
+          "filename": "resonant-arcana-0.8.0-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.4.0",
+          "display_name": "resonant-arcana-0.4.0-neoforge-1.21.1.jar",
+          "file_id": 9374868,
+          "project_id": 1750997,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/resonant-arcana/files/9374868"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "resonant_arcana",
+          "internal_version": "0.8.1",
+          "sha256": "f6a80bb86063af69e95aade62fee05e1af1f362e7c2bff66b148e00e661534d3",
+          "payload_sha256": "033e894a6e21d18ce88fbc19a7d6d5b6101569d2d7125c6fc9788705fdb7618d",
+          "filename": "resonant-arcana-0.8.1-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1750997,
+        "slug": "resonant-arcana"
+      }
+    },
+    {
+      "id": "workshop",
+      "name": "Workshop",
+      "status": "active",
+      "mod_ids": [
+        "tnkcore"
+      ],
+      "artifact_id": "towns-and-kingdoms-workshop",
+      "repository": "https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop",
+      "development_ref": null,
+      "development_version": "0.11.11",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Latest source is the delivered 0.11.11 integration archive. GitHub main 0.6.1 is older.",
+        "Experimental Sculk Goliath branches remain separate from baseline release identities."
+      ],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "tnkcore",
+          "internal_version": "0.11.7",
+          "sha256": "027f1b54f1e3e55fc149f1134fb5c8e7bbdf1ea900fe76ec8275e0eda5b41fa4",
+          "payload_sha256": "763f43b19b7a25b5017277e20d130d8aa2e3fe5305f76ae15d62d8abed1c6804",
+          "filename": "towns-and-kingdoms-workshop-0.11.7-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "0.11.7",
+          "display_name": "towns-and-kingdoms-workshop-0.11.7-neoforge-1.21.1.jar",
+          "file_id": 9493169,
+          "project_id": 1789377,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/towns-kingdoms-workshop/files/9493169"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "tnkcore",
+          "internal_version": "0.11.11",
+          "sha256": "586ad7a2276088653e04ffee36d7ba8e5b1eacbd364b26e454f6b970fcff06eb",
+          "payload_sha256": "ae0c0416050b0fd668bfd720ce40cdafbfe9ab2ce3febf999c1d180c2fa12a28",
+          "filename": "towns-and-kingdoms-workshop-0.11.11-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1789377,
+        "slug": "towns-kingdoms-workshop"
+      }
+    },
+    {
+      "id": "progression",
+      "name": "TNK Progression",
+      "status": "active",
+      "mod_ids": [
+        "tnkprogression"
+      ],
+      "artifact_id": "tnkprogression",
+      "repository": "https://github.com/Mikaaah/TNK-Progression",
+      "development_ref": "feat/direct-xp-starcatcher",
+      "development_version": "1.5.0-private.1",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Private previews remain private; never label them stable automatically.",
+        "Character and network compatibility require their own tests."
+      ],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "tnkprogression",
+          "internal_version": "1.2.0-private.1",
+          "sha256": "739fed011982d9f9f236ab37531f9c23fdb63f1173e2f1537f9ebd5fdfc8d6a0",
+          "payload_sha256": "abe13951c3242cc97d65577e1d25e40952b483a1823e5d63ed34524f2aa5b54a",
+          "filename": "tnkprogression-1.0.0-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "1.0.0",
+          "display_name": "tnkprogression-1.0.0-neoforge-1.21.1.jar",
+          "file_id": 9497972,
+          "project_id": 1789363,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/towns-kingdoms-progression/files/9497972"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "tnkprogression",
+          "internal_version": "1.5.0-private.1",
+          "sha256": "2a456a4e5eef29060009b994378d8eda02034624e913deeef1b0e72b27557e99",
+          "payload_sha256": "bd6970dc23fd8f3231bf086e12c31b3f91219194b30c1fb35a4cd3280414e369",
+          "filename": "tnkprogression-1.5.0-private.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1789363,
+        "slug": "towns-kingdoms-progression"
+      }
+    },
+    {
+      "id": "unidentified-loot",
+      "name": "Unidentified Loot",
+      "status": "active",
+      "mod_ids": [
+        "tnkloot"
+      ],
+      "artifact_id": "tnkloot",
+      "repository": "https://github.com/Mikaaah/Unidentified-Loot",
+      "development_ref": "release/tnk-1.0.2",
+      "development_version": "1.0.2-tnk-neoforge-1.21.1",
+      "editions": [
+        "standard",
+        "tnk"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Published standalone and TNK development are separate editions with different requirements.",
+        "For future releases keep TNK edition, Minecraft and loader outside the version field.",
+        "Latest audit validated Progression 1.4.0 in focused tests; do not infer certification with 1.5.0 or the complete pack."
+      ],
+      "artifacts": [
+        {
+          "role": "published",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "tnkloot",
+          "internal_version": "0.17.0-alpha",
+          "sha256": "7ea5ab8fac0328929efef302e3f78ee6c478173a2835694dec97272d4c17731f",
+          "payload_sha256": "b062d03ea5fcbc672b35c4efe961b299a0e387c7e3aba8f78a27a57e34e7d5c8",
+          "filename": "tnkloot-0.17.0-alpha.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09",
+          "public_version": "1.1",
+          "display_name": "tnkloot-1.1.jar",
+          "file_id": 9284789,
+          "project_id": 1753149,
+          "source": "https://www.curseforge.com/minecraft/mc-mods/unidentified-loot-a-towns-kingdoms-mod/files/9284789"
+        },
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "tnk",
+          "mod_id": "tnkloot",
+          "internal_version": "1.0.2-tnk-neoforge-1.21.1",
+          "sha256": "d745f509d43e34442ed245689a52210cd0bd23850653eb9dbf91c317108624a8",
+          "payload_sha256": "0df4c805d0429ef7175c3a0b5254b920e176a06e8dcbbdb4ca42ca1e7a8a7e96",
+          "filename": "tnkloot-1.0.2-tnk-neoforge-1.21.1.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ],
+      "curseforge": {
+        "project_id": 1753149,
+        "slug": "unidentified-loot-a-towns-kingdoms-mod"
+      }
+    },
+    {
+      "id": "wildshape",
+      "name": "Wildshape",
+      "status": "development",
+      "mod_ids": [
+        "wildshape"
+      ],
+      "artifact_id": "wildshape",
+      "repository": "https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape",
+      "development_ref": "audit/tnk3-compat-1.0.12",
+      "development_version": "1.0.12-beta.2+1.21.1",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Only the requested NeoForge edition is enabled for new releases. Historical Fabric source is not a promise of a current port.",
+        "New canonical versions omit the Minecraft suffix; retain historical +1.21.1 as an alias."
+      ],
+      "artifacts": [
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "wildshape",
+          "internal_version": "1.0.12-beta.2+1.21.1",
+          "sha256": "ce842bf128433af690b5c993e362d0f17efaf9c122e552747c83206d86279889",
+          "payload_sha256": "d7111e150c885f609f6908bdccf594b8ef57b7c48118fc7c2985e01ca0f2e896",
+          "filename": "wildshape-1.0.12-beta.2+1.21.1-neoforge.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "combat-afloat",
+      "name": "Combat Afloat",
+      "status": "development",
+      "mod_ids": [
+        "combatafloat"
+      ],
+      "artifact_id": "combat-afloat",
+      "repository": null,
+      "development_ref": null,
+      "development_version": "0.1.0-beta.2",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Source and JAR supplied in the beta.2 distribution; no repository was verified."
+      ],
+      "artifacts": [
+        {
+          "role": "development",
+          "target": "neoforge-1.21.1",
+          "edition": "standard",
+          "mod_id": "combatafloat",
+          "internal_version": "0.1.0-beta.2",
+          "sha256": "e356c9b233f2f99bbc33157b99dfd7e5f3c81328d71665f12c92ea7c98f7bd65",
+          "payload_sha256": "44bffbaf1956ee0c3b3cae4ed837cad8d791ad1a03d0ed845f4e698e7690d1b5",
+          "filename": "combat-afloat.jar",
+          "evidence": "Inspected artifact bytes 2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "duskdelvers",
+      "name": "Duskdelvers",
+      "status": "development",
+      "mod_ids": [
+        "duskdelvers"
+      ],
+      "artifact_id": "duskdelvers",
+      "repository": "https://github.com/Mikaaah/Duskdelvers",
+      "development_ref": "main",
+      "development_version": "0.4.0",
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "0.4.0 is verified from the source gradle.properties; no release JAR fingerprint is recorded."
+      ],
+      "artifacts": []
+    },
+    {
+      "id": "utf-alexs-caves",
+      "name": "UltraTerraForged Alexs Caves Fix",
+      "status": "deprecated",
+      "mod_ids": [
+        "tfacfix"
+      ],
+      "artifact_id": "terraforged-alexs-caves-fix",
+      "repository": "https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix",
+      "development_ref": "main",
+      "development_version": null,
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Frozen by user decision; Wildshape incorporates compatibility."
+      ],
+      "artifacts": []
+    },
+    {
+      "id": "utf-streams",
+      "name": "UltraTerraForged Streams Compat",
+      "status": "deprecated",
+      "mod_ids": [
+        "utfstreams"
+      ],
+      "artifact_id": "terrastreams",
+      "repository": "https://github.com/Mikaaah/UltraTerraForged-Streams-Currents",
+      "development_ref": "main",
+      "development_version": null,
+      "editions": [
+        "standard"
+      ],
+      "targets": [
+        {
+          "id": "neoforge-1.21.1",
+          "loader": "neoforge",
+          "minecraft": "1.21.1",
+          "java": 21
+        }
+      ],
+      "notes": [
+        "Frozen by user decision; do not install the standalone adapter alongside Wildshape."
+      ],
+      "artifacts": []
+    },
+    {
+      "id": "mahou-renewed",
+      "name": "Mahou Tsukai Renewed",
+      "status": "retired",
+      "mod_ids": [],
+      "artifact_id": "mahou-tsukai-renewed",
+      "repository": null,
+      "development_ref": "main",
+      "development_version": null,
+      "editions": [
+        "standard"
+      ],
+      "targets": [],
+      "notes": [
+        "Resource pack; no further releases requested."
+      ],
+      "artifacts": []
+    },
+    {
+      "id": "epic-fight-compat-pack",
+      "name": "TNK Epic Fight Compat Pack",
+      "status": "retired",
+      "mod_ids": [],
+      "artifact_id": "epic-fight-compat",
+      "repository": null,
+      "development_ref": "main",
+      "development_version": null,
+      "editions": [
+        "standard"
+      ],
+      "targets": [],
+      "notes": [
+        "Legacy resource/data pack; no further releases requested."
+      ],
+      "artifacts": []
+    }
+  ]
+}

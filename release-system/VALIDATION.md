@@ -1,0 +1,8 @@
+# Verification — 9 November 2026
+
+- Registry: 14 projects, 15 published artifacts and 17 independently checked development artifacts. The eight Flow Control ports and both Combat Punchy ports match their latest delivered JARs exactly. Alchemical Lasers also matches exactly.
+- Python 3.12: 26 automated tests passed. Coverage includes renamed/repacked files, all three metadata formats, version/platform/edition conflicts, Java bytecode targets, dirty/wrong source commits, immutable published identities, missing ports, private distribution, changelog placeholders, append-only publication and actual public-byte verification before registry updates.
+- Gradle 8.14 / Java 21: an isolated plain-Java fixture passed `check`, including `processResources`, `jar` and `tnkReleaseCheck`. The adapter replaced the fixture's old embedded version, generated the canonical filename and source identity, and the checker verified the resulting JAR.
+- No mod gameplay implementation was changed or rebuilt for this task. The fixture checks release infrastructure; it does not test a Minecraft client, multiplayer or a complete modpack.
+- Per-mod build integration remains opt-in on the correct development branch. Forge reobfuscation/JarJar and Fabric/Wildshape remapping must remain in their existing final packaging paths. The checker must run against that final distributable.
+- Public file fingerprints reflect the checked files on the audit date. The registry is not a live profile scraper. New candidates are recorded with `record-build`; actual public uploads are appended with `register` after their bytes are checked.

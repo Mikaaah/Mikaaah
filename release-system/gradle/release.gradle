@@ -1,0 +1,91 @@
+// Apply at the END of the correct mod branch's root build.gradle.
+// release.json is the only release version input. Existing historical JARs are never edited.
+import groovy.json.JsonOutput
+import groovy.json.JsonSlurper
+
+def releaseFile = rootProject.file('release.json')
+if (!releaseFile.isFile()) throw new GradleException('Create release.json with tnk_versions.py new first.')
+def release = new JsonSlurper().parse(releaseFile)
+if (!(release.version ==~ /(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)(?:-(?:alpha|beta|rc|private)\.[1-9]\d*)?/)) {
+    throw new GradleException('Invalid release version in release.json')
+}
+def targetId = providers.gradleProperty('tnkTarget').orElse(release.targets.size() == 1 ? release.targets[0].id : '').get()
+def target = release.targets.find { it.id == targetId }
+if (target == null) throw new GradleException('Choose a registered release target with -PtnkTarget=<loader>-<minecraft>')
+def selectedProject = providers.gradleProperty('tnkArtifactProject').orElse(':').get()
+def selectedTask = providers.gradleProperty('tnkArtifactTask').orElse('jar').get()
+def toolsRoot = rootProject.file('release-tools')
+def checker = new File(toolsRoot, 'tnk_versions.py')
+if (!checker.isFile()) throw new GradleException('Copy release-system into release-tools first.')
+
+// Finalize version after loader plugins and any legacy version expressions have configured.
+gradle.projectsEvaluated {
+    allprojects { version = release.version }
+    def artifactProject = rootProject.project(selectedProject)
+    def artifactTask = artifactProject.tasks.named(selectedTask)
+    def gitOutput = { List<String> arguments ->
+        providers.exec {
+            workingDir rootProject.projectDir
+            commandLine(['git'] + arguments)
+        }.standardOutput.asText.get().trim()
+    }
+    def commit = gitOutput(['rev-parse', 'HEAD'])
+    def dirty = !gitOutput(['status', '--porcelain', '--untracked-files=normal']).isEmpty()
+    def identity = [schema: 1, project: release.project, version: release.version,
+                    edition: release.edition ?: 'standard', target: target.id,
+                    minecraft: target.minecraft, loader: target.loader, java: target.java,
+                    source_commit: commit, source_dirty: dirty]
+    def editionSuffix = identity.edition == 'standard' ? '' : '-' + identity.edition
+    def jarName = "${release.artifact_id}-${release.version}${editionSuffix}-${target.loader}-${target.minecraft}.jar"
+    artifactTask.configure {
+        archiveFileName.set(jarName)
+        manifest.attributes('Implementation-Version': release.version)
+    }
+    // Common resources can be included in a loader's shadow/remap task. Stamp each
+    // Java resource output; touch only this mod's [[mods]] block or Fabric version.
+    allprojects { prj ->
+        prj.plugins.withId('java') {
+            prj.tasks.named('processResources').configure {
+                inputs.file(releaseFile)
+                inputs.property('tnkReleaseIdentity', JsonOutput.toJson(identity))
+                doLast {
+                    ['META-INF/neoforge.mods.toml', 'META-INF/mods.toml'].each { path ->
+                        def metadata = new File(destinationDir, path)
+                        if (metadata.isFile()) {
+                            metadata.text = metadata.getText('UTF-8').replaceAll(/(?ms)^\[\[mods\]\].*?(?=^\[\[|\z)/) { block ->
+                                def registry = new JsonSlurper().parse(new File(toolsRoot, 'registry.json'))
+                                def owned = registry.projects.find { it.id == release.project }.mod_ids
+                                def idMatch = (block =~ /(?m)^modId\s*=\s*["']([^"']+)["']/)
+                                if (idMatch.find() && owned.contains(idMatch.group(1))) {
+                                    return block.replaceAll(/(?m)^version\s*=.*$/, 'version="' + release.version + '"')
+                                }
+                                return block
+                            }
+                        }
+                    }
+                    def fabric = new File(destinationDir, 'fabric.mod.json')
+                    if (fabric.isFile()) {
+                        def content = new JsonSlurper().parse(fabric)
+                        def registry = new JsonSlurper().parse(new File(toolsRoot, 'registry.json'))
+                        if (registry.projects.find { it.id == release.project }.mod_ids.contains(content.id)) {
+                            content.version = release.version
+                            fabric.setText(JsonOutput.prettyPrint(JsonOutput.toJson(content)) + '\n', 'UTF-8')
+                        }
+                    }
+                    if (prj == artifactProject) {
+                        def stamp = new File(destinationDir, 'META-INF/tnk-release.json')
+                        stamp.parentFile.mkdirs()
+                        stamp.setText(JsonOutput.prettyPrint(JsonOutput.toJson(identity)) + '\n', 'UTF-8')
+                    }
+                }
+            }
+        }
+    }
+    def validation = rootProject.tasks.register('tnkReleaseCheck', Exec) {
+        dependsOn artifactTask
+        commandLine 'python3', checker.absolutePath, 'verify', '--release', releaseFile.absolutePath,
+                    '--jar', artifactTask.get().archiveFile.get().asFile.absolutePath, '--target', targetId,
+                    '--expected-commit', commit
+    }
+    rootProject.tasks.named('check').configure { dependsOn validation }
+}

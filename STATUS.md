@@ -19,6 +19,12 @@ Find a guide, download page or issue tracker for every Minecraft project. Versio
 
 Use the issue tracker for the affected project. Include your Minecraft, loader and mod versions, what you expected, what happened, and the steps needed to reproduce it. The Towns & Kingdoms listing includes several pack generations; choose downloads by their actual file version.
 
+## Mod version matching
+
+[Version registry and release rules](release-system/README.md) · [Verified public/development mappings](release-system/VERSION-MAP.md)
+
+Match actual JAR contents and checksums before comparing version labels. Historical aliases, separate editions and retired projects are recorded explicitly.
+
 ## Pull up a chair
 
 Questions, builds, feedback, server news and the occasional wildly overambitious factory: join the **Towns & Kingdoms Modding Hub**.
