@@ -8,53 +8,22 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Minecraft-Mods_%26_Modpacks-5b8731?style=for-the-badge" alt="Minecraft mods and modpacks"> <img src="https://img.shields.io/badge/NeoForge-1.21.1-d77828?style=for-the-badge" alt="NeoForge 1.21.1"> <img src="https://img.shields.io/badge/Powered_by-Curiosity-7f384a?style=for-the-badge" alt="Powered by curiosity"></p>
 
-## ⚙️ One more machine before the adventure
-
-**[Towns & Kingdoms 3 | Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms)** is where it all comes together: Create at the heart of the factory, character progression with choices to make, dungeons worth finding, and enough building variety to turn a base into a town.
-
-[![Towns & Kingdoms 3 — Beyond the Forge](https://i.imgur.com/8FAzCYE.png)](https://mikaaah.github.io/TownsAndKingdoms/)
-
-**[Explore the field guide →](https://mikaaah.github.io/TownsAndKingdoms/)** · [What changed from TK2?](https://mikaaah.github.io/TownsAndKingdoms/changelog/) · [Play together](https://mikaaah.github.io/TownsAndKingdoms/servers/)
-
-**In development:** TNK3 Beta 1.0 for Minecraft 1.21.1 / NeoForge / Java 21. The shared CurseForge pack page also contains older TK2 releases; choose by the actual file version.
-
-## 🧰 Pick your next rabbit hole
-
-### Build & automate
+## 🧰 Projects
 
 | Project | What’s inside |
 | --- | --- |
-| [Towns & Kingdoms Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | A toolbox for better towns: building tools, quest holograms, cages and pocket-sized journeys home. |
-| [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | Put a little alchemy on the assembly line: kinetic lasers, five lenses and bulk processing. |
-
-### Character & combat
-
-| Project | What’s inside |
-| --- | --- |
-| [Towns & Kingdoms Progression](https://github.com/Mikaaah/TNK-Progression) | Give everyday adventures a character sheet: activities, levels, skills, titles and a readable HUD. |
-| [Combat Punchy](https://github.com/Mikaaah/Combat-Punchy) | Epic Fight combat. Punchy movement. Automatic switching that follows the action. |
-
-### Magic & loot
-
-| Project | What’s inside |
-| --- | --- |
-| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Nine schools of magic, legendary spellbooks and rituals big enough to build a character around. |
-| [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | Bring home a mystery. Identify your finds, discover powerful equipment, and build around the result. |
-
-### World & exploration
-
-| Project | What’s inside |
-| --- | --- |
-| [Flow Control](https://github.com/Mikaaah/Flow-Control) | Your canal. Your current. Shape Streams Reflowing water around docks, rivers and ambitious builds. |
-| [Duskdelvers · Expeditions](https://github.com/Mikaaah/Duskdelvers) | Gather your party, enter the Chaos Caverns, and bring the treasure home before time runs out. |
-| [Towns & Kingdoms Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | Big landscapes. Bigger caverns. Terrain made for long journeys and underground discoveries. |
-
-### Compatibility
-
-| Project | What’s inside |
-| --- | --- |
-| [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Bring the six underground cave biomes and native chambers into UltraTerraForged terrain. |
-| [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Give native UltraTerraForged rivers height-aware currents, including boats and baked stream blocks. |
+| [Towns & Kingdoms 3 · Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | Create factories, RPG combat, magic, dungeons and a cozy town to come home to. |
+| [Towns & Kingdoms Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | Building tools, quest holograms, cages, mirrors and the Trading Hub. |
+| [Towns & Kingdoms Progression](https://github.com/Mikaaah/TNK-Progression) | Character levels, origins, skills, titles and activity tracking. |
+| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Nine schools of magic, legendary spellbooks and spectacular rituals. |
+| [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | Sealed rewards, equipment discoveries, identification, salvage and automation. |
+| [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | Kinetic laser processing with five reusable lenses and Create assembly support. |
+| [Flow Control](https://github.com/Mikaaah/Flow-Control) | Calibrate Streams currents, automate waterways and keep boats at their moorings. |
+| [Towns & Kingdoms Wildshape](https://github.com/Mikaaah/Towns-and-Kingdoms-Wildshape) | Wide landscapes, enormous caverns and terrain made for exploration. |
+| [Combat Punchy](https://github.com/Mikaaah/Combat-Punchy) | Epic Fight, Punchy and Moves animation handoffs with automatic combat switching. |
+| [Combat Afloat](https://github.com/Mikaaah/Combat-Afloat) | Epic Fight compatibility for Sable ships and Create Aeronautics. |
+| [UltraTerraForged × Alex’s Caves](https://github.com/Mikaaah/Terraforged-Alexs-Caves-Fix) | Integrates Alex’s underground cave biomes and chambers with UltraTerraForged terrain. |
+| [UltraTerraForged × Streams Reflowing](https://github.com/Mikaaah/UltraTerraForged-Streams-Currents) | Adds height-aware currents to native UltraTerraForged rivers. |
 
 <details>
 <summary><strong>🎒 Optional side quests</strong></summary>
