@@ -16,6 +16,8 @@
 
 **[Explore the field guide →](https://mikaaah.github.io/TownsAndKingdoms/)** · [What changed from TK2?](https://mikaaah.github.io/TownsAndKingdoms/changelog/) · [Play together](https://mikaaah.github.io/TownsAndKingdoms/servers/)
 
+**In development:** TNK3 Beta 1.0 for Minecraft 1.21.1 / NeoForge / Java 21. The shared CurseForge pack page also contains older TK2 releases; choose by the actual file version.
+
 ## 🧰 Pick your next rabbit hole
 
 ### Build & automate
@@ -71,7 +73,7 @@
 
 I like connecting systems so that engineering, exploration and character growth give each other a reason to keep going. Cozy builds and spectacularly unnecessary projects are welcome here.
 
-[Project directory & support](STATUS.md) · [Browse the repositories](https://github.com/Mikaaah?tab=repositories)
+[Project directory, current editions & support](STATUS.md) · [Browse the repositories](https://github.com/Mikaaah?tab=repositories)
 
 ## Pull up a chair
 
