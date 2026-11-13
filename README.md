@@ -15,7 +15,7 @@
 | [Towns & Kingdoms 3 · Beyond the Forge](https://github.com/Mikaaah/TownsAndKingdoms) | Create factories, RPG combat, magic, dungeons and a cozy town to come home to. |
 | [Towns & Kingdoms Workshop](https://github.com/Mikaaah/Towns-and-Kingdoms-Workshop) | Building tools, quest holograms, cages, mirrors and the Trading Hub. |
 | [Towns & Kingdoms Progression](https://github.com/Mikaaah/TNK-Progression) | Character levels, origins, skills, titles and activity tracking. |
-| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana) | Nine schools of magic, legendary spellbooks and spectacular rituals. |
+| [Resonant Arcana](https://github.com/Mikaaah/Resonant-Arcana-1.1.4) | Nine schools of magic, legendary spellbooks and spectacular rituals. |
 | [Unidentified Loot](https://github.com/Mikaaah/Unidentified-Loot) | Sealed rewards, equipment discoveries, identification, salvage and automation. |
 | [Create: Alchemical Lasers](https://github.com/Mikaaah/Create-Alchemical-Lasers) | Kinetic laser processing with five reusable lenses and Create assembly support. |
 | [Flow Control](https://github.com/Mikaaah/Flow-Control) | Calibrate Streams currents, automate waterways and keep boats at their moorings. |
